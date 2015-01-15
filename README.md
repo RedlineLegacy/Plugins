@@ -55,7 +55,7 @@ Name | Possible Values | Explanation
 
 Name | Possible Values | Explanation
 -----|-----------------|------------
-`ps` | Integer | amount of horses living under the hood.
+`kw` | Integer | amount of horses living under the hood, in kW.
 `drivetrain` | `fwd`, `rwd`, `4wd` | drive train.
 `weight` | Integer | car weight.
 `gearboxes` | Integer | amount of gears.
@@ -76,10 +76,13 @@ Name | Possible Values | Explanation
 {
     "plugname":"Alpenpass",
     "plugsize":2389448,
-    "plugtype":"tracks"
+    "plugtype":"tracks",
+    
+    "loop":"YES",
+    
     "urls":[
         "http://redline.martindessauer.de/plugins/alpenpass.zip",
-		"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/alpenpass.zip"
+	"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/alpenpass.zip"
 	]
 }
 ```
@@ -88,12 +91,18 @@ Name | Possible Values | Explanation
 
 ```
 {
-    "plugname":"Caterham CSR",
-    "plugsize":6489923,
+	"plugname":"Caterham CSR",
+	"plugsize":6489923,
 	"plugtype":"cars",
+	
+	"kw":194,
+	"drivetrain":"RWD",
+	"weight":695,
+	"gearboxes":6,
+	
 	"urls":[
 		"http://redline.martindessauer.de/plugins/Caterham-CSR_1.7.redplug.zip",
-			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Caterham-CSR_1.7.redplug.zip"
+		"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Caterham-CSR_1.7.redplug.zip"
 	]
 }
 ```
