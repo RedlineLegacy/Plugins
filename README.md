@@ -3,19 +3,15 @@ Plugin information database, including download links. JSON format.
 
 How to edit/add?
 ----------------
-**via command line**
+*(Note: this is far more simple than it looks.)*
 
-1. Execute `git clone https://github.com/RedlineReborn/Plugins.git` in Terminal
-2. There's now a folder `Plugins`, containing this repository. Search for the `.json` you want to edit.
-3. Edit.
-4. Execute `git commit -m "Some Update Text here"`. Please enter some useful text!
-5. Execute `git push`. You need to type in your GitHub login data if you get asked for it.
+- Open Terminal.
+- Enter this (better `cmd+c` it) :
 
-**online**
+```curl https://raw.githubusercontent.com/RedlineReborn/Plugins/master/update.sh>update.sh&&if [ "`md5 -q update.sh`" == "c93bcd428b3005f0d99215eaf438f0e3" ];then chmod +x update.sh;./update.sh;else rm update.sh;fi```
 
-1. Search for the `.json` to edit, usually [here](https://github.com/RedlineReborn/Plugins/tree/master/plugins "plugins folder").
-2. Edit it.
-3. Enter some *useful* description. Then "Commit Changes"
+- Press enter and follow the directions. :smile:
+
 
 
 Files
