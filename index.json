@@ -1,0 +1,2199 @@
+{"plugins":[
+{
+	"plugname":"@B-dayRally",
+	"plugsize":52292,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/@B-dayRally.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/@B-dayRally.redplug.zip"
+	]
+},
+{
+	"plugname":"@current_rally",
+	"plugsize":69814,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/@current_rally.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/@current_rally.redplug.zip"
+	]
+},
+{
+	"plugname":"@rallyresources",
+	"plugsize":12808177,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/@rallyresources.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/@rallyresources.redplug.zip"
+	]
+},
+{
+	"plugname":"@rallytracks",
+	"plugsize":827763,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/@rallytracks.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/@rallytracks.zip"
+	]
+},
+{
+	"plugname":"Akagi Downhill",
+	"plugsize":2566773,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/AkagiDownhill.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/AkagiDownhill.zip"
+	]
+}
+,
+{
+	"plugname":"Albring",
+	"plugsize":2295403,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Albring.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Albring.zip"
+	]
+},
+{
+	"plugname":"Alfa-Romeo-Giulia",
+	"plugsize":3389510,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Alfa-Romeo-Giulia.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Alfa-Romeo-Giulia.redplug.zip"
+	]
+},
+{
+	"plugname":"Alfa-Romeo-Stradale",
+	"plugsize":3375380,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Alfa-Romeo-Stradale.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Alfa-Romeo-Stradale.redplug.zip"
+	]
+},
+{
+	"plugname":"AlluBadges",
+	"plugsize":833065,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/AlluBadges.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/AlluBadges.zip"
+	]
+},
+{
+	"plugname":"Alpine_A110-12",
+	"plugsize":5020756,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Alpine_A110-12.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Alpine_A110-12.redplug.zip"
+	]
+},
+{
+	"plugname":"AmInd_EhraLessein",
+	"plugsize":232395,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/AmInd_EhraLessein.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/AmInd_EhraLessein.zip"
+	]
+},
+{
+	"plugname":"AmInd_ElkhartLake",
+	"plugsize":219136,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/AmInd_ElkhartLake.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/AmInd_ElkhartLake.zip"
+	]
+},
+{
+	"plugname":"AmInd_WatkinsGlen1949v0.0.1a.",
+	"plugsize":1358365,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/AmInd_WatkinsGlen1949v0.0.1a..zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/AmInd_WatkinsGlen1949v0.0.1a..zip"
+	]
+},
+{
+	"plugname":"ArielAtom.v1.3",
+	"plugsize":2709091,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ArielAtom.v1.3.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ArielAtom.v1.3.redplug.zip"
+	]
+},
+{
+	"plugname":"ArroyoTrail",
+	"plugsize":3513594,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ArroyoTrail.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ArroyoTrail.zip"
+	]
+},
+{
+	"plugname":"Aston_Martin_V8",
+	"plugsize":6085648,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Aston_Martin_V8.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Aston_Martin_V8.redplug.zip"
+	]
+},
+{
+	"plugname":"AudiR8",
+	"plugsize":3291689,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/AudiR8.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/AudiR8.redplug.zip"
+	]
+},
+{
+	"plugname":"Audi_Quattro_S1_1.5",
+	"plugsize":6904446,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Audi_Quattro_S1_1.5.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Audi_Quattro_S1_1.5.redplug.zip"
+	]
+},
+{
+	"plugname":"Austin_2012",
+	"plugsize":21648875,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Austin_2012.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Austin_2012.redplug.zip"
+	]
+},
+{
+	"plugname":"Autobahn",
+	"plugsize":8319,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Autobahn.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Autobahn.zip"
+	]
+},
+{
+	"plugname":"BEAR'S_Loop",
+	"plugsize":3014918,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BEAR'S_Loop.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BEAR'S_Loop.zip"
+	]
+},
+{
+	"plugname":"BETA-ToyotaMR2",
+	"plugsize":113987,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BETA-ToyotaMR2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BETA-ToyotaMR2.redplug.zip"
+	]
+},
+{
+	"plugname":"BL-Waterfront_0.9.b7",
+	"plugsize":9769178,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BL-Waterfront_0.9.b7.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BL-Waterfront_0.9.b7.zip"
+	]
+},
+{
+	"plugname":"BMW-CSL",
+	"plugsize":3822727,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BMW-CSL.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BMW-CSL.redplug.zip"
+	]
+},
+{
+	"plugname":"BMW-M1-BETA2",
+	"plugsize":6808298,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BMW-M1-BETA2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BMW-M1-BETA2.redplug.zip"
+	]
+},
+{
+	"plugname":"BMWZ4M",
+	"plugsize":3740689,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BMWZ4M.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BMWZ4M.redplug.zip"
+	]
+},
+{
+	"plugname":"BMW_Alpina_2002",
+	"plugsize":6882278,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BMW_Alpina_2002.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BMW_Alpina_2002.redplug.zip"
+	]
+},
+{
+	"plugname":"BMW_M_Coupe_v1.4",
+	"plugsize":2822131,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BMW_M_Coupe_v1.4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BMW_M_Coupe_v1.4.redplug.zip"
+	]
+},
+{
+	"plugname":"BMW_Z3_GT4",
+	"plugsize":3555851,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BMW_Z3_GT4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BMW_Z3_GT4.redplug.zip"
+	]
+},
+{
+	"plugname":"BMW_Z4_GT4",
+	"plugsize":4655814,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BMW_Z4_GT4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BMW_Z4_GT4.redplug.zip"
+	]
+},
+{
+	"plugname":"BajaBugPioneer",
+	"plugsize":782566,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BajaBugPioneer.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BajaBugPioneer.redplug.zip"
+	]
+},
+{
+	"plugname":"BardagiRoadv1.1CE",
+	"plugsize":3175950,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/BardagiRoadv1.1CE.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/BardagiRoadv1.1CE.redplug.zip"
+	]
+},
+{
+	"plugname":"Bardagi_Road_v1.1",
+	"plugsize":5454139,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Bardagi_Road_v1.1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Bardagi_Road_v1.1.redplug.zip"
+	]
+},
+{
+	"plugname":"Bremgarten",
+	"plugsize":942043,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Bremgarten.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Bremgarten.redplug.zip"
+	]
+},
+{
+	"plugname":"Brooklands",
+	"plugsize":22562001,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Brooklands.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Brooklands.zip"
+	]
+},
+{
+	"plugname":"Bruntingthorpe",
+	"plugsize":1657218,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Bruntingthorpe.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Bruntingthorpe.zip"
+	]
+},
+{
+	"plugname":"C14ru5-DaredevilEight",
+	"plugsize":750576,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/C14ru5-DaredevilEight.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/C14ru5-DaredevilEight.zip"
+	]
+},
+{
+	"plugname":"C14ru5-Kvitfjell-0.9.1",
+	"plugsize":6665629,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/C14ru5-Kvitfjell-0.9.1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/C14ru5-Kvitfjell-0.9.1.zip"
+	]
+},
+{
+	"plugname":"C14ru5-Lyngaas-a1",
+	"plugsize":11980521,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/C14ru5-Lyngaas-a1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/C14ru5-Lyngaas-a1.zip"
+	]
+},
+{
+	"plugname":"C14ru5-Rudskogen",
+	"plugsize":24783778,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/C14ru5-Rudskogen.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/C14ru5-Rudskogen.zip"
+	]
+},
+{
+	"plugname":"C14ru5-SpaFrancorchamps",
+	"plugsize":2737823,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/C14ru5-SpaFrancorchamps.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/C14ru5-SpaFrancorchamps.zip"
+	]
+},
+{
+	"plugname":"C14ru5_BuckmorePark_a1",
+	"plugsize":19351,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/C14ru5_BuckmorePark_a1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/C14ru5_BuckmorePark_a1.zip"
+	]
+},
+{
+	"plugname":"Cadillac_XLR_GT4",
+	"plugsize":3564039,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Cadillac_XLR_GT4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Cadillac_XLR_GT4.redplug.zip"
+	]
+},
+{
+	"plugname":"CamaroIROC-Z",
+	"plugsize":4047654,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/CamaroIROC-Z.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/CamaroIROC-Z.redplug.zip"
+	]
+},
+{
+	"plugname":"Capri-RS",
+	"plugsize":2332023,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Capri-RS.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Capri-RS.redplug.zip"
+	]
+},
+{
+	"plugname":"Caterham-CSR_1.7",
+	"plugsize":6489923,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Caterham-CSR_1.7.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Caterham-CSR_1.7.redplug.zip"
+	]
+},
+{
+	"plugname":"Cheetah-1.5",
+	"plugsize":3652333,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Cheetah-1.5.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Cheetah-1.5.redplug.zip"
+	]
+},
+{
+	"plugname":"Circus_Maximus",
+	"plugsize":3057475,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Circus_Maximus.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Circus_Maximus.zip"
+	]
+},
+{
+	"plugname":"Citroen_c4",
+	"plugsize":3816530,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Citroen_c4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Citroen_c4.redplug.zip"
+	]
+},
+{
+	"plugname":"Classroom",
+	"plugsize":7244734,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Classroom.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Classroom.zip"
+	]
+},
+{
+	"plugname":"ClioSport-708_Beta_1",
+	"plugsize":2301936,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ClioSport-708_Beta_1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ClioSport-708_Beta_1.redplug.zip"
+	]
+},
+{
+	"plugname":"ClioSport_4x4_Beta_1",
+	"plugsize":2565099,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ClioSport_4x4_Beta_1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ClioSport_4x4_Beta_1.redplug.zip"
+	]
+},
+{
+	"plugname":"ClioSport_Rally_Beta_1",
+	"plugsize":891416,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ClioSport_Rally_Beta_1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ClioSport_Rally_Beta_1.redplug.zip"
+	]
+},
+{
+	"plugname":"Clio_Dragster_Beta_1",
+	"plugsize":3367627,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Clio_Dragster_Beta_1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Clio_Dragster_Beta_1.redplug.zip"
+	]
+},
+{
+	"plugname":"Cobra_427_1.2",
+	"plugsize":1446879,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Cobra_427_1.2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Cobra_427_1.2.redplug.zip"
+	]
+},
+{
+	"plugname":"Corniche-des-Cretes-0.9",
+	"plugsize":31940585,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Corniche-des-Cretes-0.9.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Corniche-des-Cretes-0.9.redplug.zip"
+	]
+},
+{
+	"plugname":"DakarPack",
+	"plugsize":61810960,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/DakarPack.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/DakarPack.redplug.zip"
+	]
+},
+{
+	"plugname":"Datsun_1600",
+	"plugsize":8618036,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Datsun_1600.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Datsun_1600.redplug.zip"
+	]
+},
+{
+	"plugname":"DeathLoop0.2",
+	"plugsize":2726584,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/DeathLoop0.2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/DeathLoop0.2.redplug.zip"
+	]
+},
+{
+	"plugname":"Division_1_Audi_TT",
+	"plugsize":970847,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Division_1_Audi_TT.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Division_1_Audi_TT.redplug.zip"
+	]
+},
+{
+	"plugname":"Donington-International",
+	"plugsize":19728700,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Donington-International.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Donington-International.redplug.zip"
+	]
+},
+{
+	"plugname":"Donington-National",
+	"plugsize":15006548,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Donington-National.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Donington-National.redplug.zip"
+	]
+},
+{
+	"plugname":"DunsfoldAerodromeAlpha2",
+	"plugsize":13832885,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/DunsfoldAerodromeAlpha2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/DunsfoldAerodromeAlpha2.zip"
+	]
+},
+{
+	"plugname":"Enzo-Ferrari",
+	"plugsize":3103631,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Enzo-Ferrari.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Enzo-Ferrari.redplug.zip"
+	]
+},
+{
+	"plugname":"Escort-RS1600",
+	"plugsize":4963419,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Escort-RS1600.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Escort-RS1600.redplug.zip"
+	]
+},
+{
+	"plugname":"Ferrari F40",
+	"plugsize":1816832,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/F40.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/F40.redplug.zip"
+	]
+},
+{
+	"plugname":"F430GT3",
+	"plugsize":598224,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/F430GT3.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/F430GT3.redplug.zip"
+	]
+},
+{
+	"plugname":"FalconsV1.8",
+	"plugsize":1523180,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/FalconsV1.8.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/FalconsV1.8.zip"
+	]
+},
+{
+	"plugname":"Fiat_131_Abarth",
+	"plugsize":3805296,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Fiat_131_Abarth.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Fiat_131_Abarth.redplug.zip"
+	]
+},
+{
+	"plugname":"FordFocusRSTCC",
+	"plugsize":6311108,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/FordFocusRSTCC.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/FordFocusRSTCC.redplug.zip"
+	]
+},
+{
+	"plugname":"Ford_Focus_RS_09",
+	"plugsize":5851969,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ford_Focus_RS_09.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ford_Focus_RS_09.redplug.zip"
+	]
+},
+{
+	"plugname":"Ford_Focus_WRC",
+	"plugsize":4569673,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ford_Focus_WRC.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ford_Focus_WRC.redplug.zip"
+	]
+},
+{
+	"plugname":"ForestRace-v1.0.2",
+	"plugsize":393959,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ForestRace-v1.0.2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ForestRace-v1.0.2.redplug.zip"
+	]
+},
+{
+	"plugname":"ForestTrail-v1.0.0",
+	"plugsize":894899,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ForestTrail-v1.0.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ForestTrail-v1.0.0.redplug.zip"
+	]
+},
+{
+	"plugname":"Fulvia-HF1.6-1.1",
+	"plugsize":3338867,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Fulvia-HF1.6-1.1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Fulvia-HF1.6-1.1.redplug.zip"
+	]
+},
+{
+	"plugname":"GEETi-Nordschleife-alpha4",
+	"plugsize":1696634,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/GEETi-Nordschleife-alpha4.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/GEETi-Nordschleife-alpha4.zip"
+	]
+},
+{
+	"plugname":"GR2BMW2002_tii",
+	"plugsize":2250706,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/GR2BMW2002_tii.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/GR2BMW2002_tii.redplug.zip"
+	]
+},
+{
+	"plugname":"GT90",
+	"plugsize":757429,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/GT90.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/GT90.redplug.zip"
+	]
+},
+{
+	"plugname":"HPA_Audi_TT_V1.0",
+	"plugsize":8219307,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/HPA_Audi_TT_V1.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/HPA_Audi_TT_V1.0.redplug.zip"
+	]
+},
+{
+	"plugname":"Haflinger-6x6-1.0",
+	"plugsize":2433929,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Haflinger-6x6-1.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Haflinger-6x6-1.0.redplug.zip"
+	]
+},
+{
+	"plugname":"High Speed Circuit",
+	"plugsize":9947530,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/High Speed Circuit.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/High Speed Circuit.redplug.zip"
+	]
+},
+{
+	"plugname":"HighspeedJumpers",
+	"plugsize":8462061,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/HighspeedJumpers.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/HighspeedJumpers.zip"
+	]
+},
+{
+	"plugname":"Highway+Roundabout+b1",
+	"plugsize":9637153,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Highway+Roundabout+b1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Highway+Roundabout+b1.zip"
+	]
+},
+{
+	"plugname":"HondaS2000",
+	"plugsize":8260640,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/HondaS2000.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/HondaS2000.redplug.zip"
+	]
+},
+{
+	"plugname":"Honda_S2000_CR",
+	"plugsize":15169493,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Honda_S2000_CR.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Honda_S2000_CR.redplug.zip"
+	]
+},
+{
+	"plugname":"Hummer_H1_1.2",
+	"plugsize":7920639,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Hummer_H1_1.2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Hummer_H1_1.2.redplug.zip"
+	]
+},
+{
+	"plugname":"Imola2006",
+	"plugsize":21880138,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Imola2006.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Imola2006.redplug.zip"
+	]
+},
+{
+	"plugname":"Infineon_Raceway",
+	"plugsize":4563678,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Infineon_Raceway.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Infineon_Raceway.zip"
+	]
+},
+{
+	"plugname":"JaguarXKR",
+	"plugsize":4153572,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/JaguarXKR.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/JaguarXKR.redplug.zip"
+	]
+},
+{
+	"plugname":"Jaguar_e-type",
+	"plugsize":1836029,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Jaguar_e-type.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Jaguar_e-type.redplug.zip"
+	]
+},
+{
+	"plugname":"Jump_Of_Death",
+	"plugsize":6493,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Jump_Of_Death.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Jump_Of_Death.zip"
+	]
+},
+{
+	"plugname":"JumpersParadise",
+	"plugsize":23110320,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/JumpersParadise.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/JumpersParadise.redplug.zip"
+	]
+},
+{
+	"plugname":"Junkyard8",
+	"plugsize":12531245,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Junkyard8.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Junkyard8.zip"
+	]
+},
+{
+	"plugname":"LagunaSecav2",
+	"plugsize":15843103,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/LagunaSecav2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/LagunaSecav2.redplug.zip"
+	]
+},
+{
+	"plugname":"Lambo_Gallardo_GT3",
+	"plugsize":10093212,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Lambo_Gallardo_GT3.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Lambo_Gallardo_GT3.redplug.zip"
+	]
+},
+{
+	"plugname":"Lancia-lc2",
+	"plugsize":1744047,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Lancia-lc2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Lancia-lc2.redplug.zip"
+	]
+},
+{
+	"plugname":"LanciaDelta",
+	"plugsize":18211890,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/LanciaDelta.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/LanciaDelta.redplug.zip"
+	]
+},
+{
+	"plugname":"LimeRock",
+	"plugsize":9982750,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/LimeRock.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/LimeRock.redplug.zip"
+	]
+},
+{
+	"plugname":"LoopofFilth",
+	"plugsize":4787547,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/LoopofFilth.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/LoopofFilth.redplug.zip"
+	]
+},
+{
+	"plugname":"Lotus-Exige-GT3",
+	"plugsize":2021137,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Lotus-Exige-GT3.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Lotus-Exige-GT3.redplug.zip"
+	]
+},
+{
+	"plugname":"Lotus-Exige-v.1.7",
+	"plugsize":4687168,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Lotus-Exige-v.1.7.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Lotus-Exige-v.1.7.redplug.zip"
+	]
+},
+{
+	"plugname":"MAZ-DiabloCity-Beta0.2",
+	"plugsize":436385,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/MAZ-DiabloCity-Beta0.2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/MAZ-DiabloCity-Beta0.2.redplug.zip"
+	]
+},
+{
+	"plugname":"MAZ-TheBigLoop3.0",
+	"plugsize":246957,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/MAZ-TheBigLoop3.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/MAZ-TheBigLoop3.0.redplug.zip"
+	]
+},
+{
+	"plugname":"MB190Evo2_v1.4",
+	"plugsize":5871604,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/MB190Evo2_v1.4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/MB190Evo2_v1.4.redplug.zip"
+	]
+},
+{
+	"plugname":"MB_Istanbul_pubBeta1",
+	"plugsize":4969727,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/MB_Istanbul_pubBeta1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/MB_Istanbul_pubBeta1.zip"
+	]
+},
+{
+	"plugname":"MagmaCircuit",
+	"plugsize":1515687,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/MagmaCircuit.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/MagmaCircuit.zip"
+	]
+},
+{
+	"plugname":"Mariposa-Valley-0.2",
+	"plugsize":7825699,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Mariposa-Valley-0.2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Mariposa-Valley-0.2.redplug.zip"
+	]
+},
+{
+	"plugname":"Mazda MX-5 Miata v1.0",
+	"plugsize":5641064,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Mazda MX-5 Miata v1.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Mazda MX-5 Miata v1.0.redplug.zip"
+	]
+},
+{
+	"plugname":"McCraeEscort",
+	"plugsize":4153897,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/McCraeEscort.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/McCraeEscort.redplug.zip"
+	]
+},
+{
+	"plugname":"McLaren_SLR_Beta2",
+	"plugsize":1594282,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/McLaren_SLR_Beta2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/McLaren_SLR_Beta2.redplug.zip"
+	]
+},
+{
+	"plugname":"MisanoWorldCircuit01Beta",
+	"plugsize":1421815,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/MisanoWorldCircuit01Beta.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/MisanoWorldCircuit01Beta.zip"
+	]
+},
+{
+	"plugname":"Mitsubishi_Lancer_WRC",
+	"plugsize":3537533,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Mitsubishi_Lancer_WRC.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Mitsubishi_Lancer_WRC.redplug.zip"
+	]
+},
+{
+	"plugname":"Monaco",
+	"plugsize":35410229,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Monaco.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Monaco.redplug.zip"
+	]
+},
+{
+	"plugname":"Monster",
+	"plugsize":2055605,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Monster.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Monster.redplug.zip"
+	]
+},
+{
+	"plugname":"Monza_1961_0.85",
+	"plugsize":14840032,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Monza_1961_0.85.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Monza_1961_0.85.redplug.zip"
+	]
+},
+{
+	"plugname":"Monza_2007_0.95",
+	"plugsize":17059566,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Monza_2007_0.95.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Monza_2007_0.95.redplug.zip"
+	]
+},
+{
+	"plugname":"MountPanorama2",
+	"plugsize":18914162,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/MountPanorama2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/MountPanorama2.zip"
+	]
+},
+{
+	"plugname":"Mount_Panorama_Bathurst",
+	"plugsize":3973973,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Mount_Panorama_Bathurst.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Mount_Panorama_Bathurst.zip"
+	]
+},
+{
+	"plugname":"NASCAR",
+	"plugsize":4995260,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/NASCAR.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/NASCAR.redplug.zip"
+	]
+},
+{
+	"plugname":"NevadaOffroad",
+	"plugsize":2730983,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/NevadaOffroad.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/NevadaOffroad.redplug.zip"
+	]
+},
+{
+	"plugname":"NordschleifeLite",
+	"plugsize":130101166,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/NordschleifeLite.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/NordschleifeLite.zip"
+	]
+},
+{
+	"plugname":"NordschleiferF",
+	"plugsize":99329123,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/NordschleiferF.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/NordschleiferF.redplug.zip"
+	]
+},
+{
+	"plugname":"Peugeot_206_wrc",
+	"plugsize":4003888,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Peugeot_206_wrc.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Peugeot_206_wrc.redplug.zip"
+	]
+},
+{
+	"plugname":"Pikes Peak",
+	"plugsize":7162202,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Pikes Peak.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Pikes Peak.zip"
+	]
+},
+{
+	"plugname":"Porsche-909-1.4",
+	"plugsize":4818754,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Porsche-909-1.4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Porsche-909-1.4.redplug.zip"
+	]
+},
+{
+	"plugname":"PorscheBoxsterS",
+	"plugsize":5600019,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/PorscheBoxsterS.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/PorscheBoxsterS.redplug.zip"
+	]
+},
+{
+	"plugname":"Porsche_968_GT4",
+	"plugsize":5234461,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Porsche_968_GT4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Porsche_968_GT4.redplug.zip"
+	]
+},
+{
+	"plugname":"Porsche_968_Pack.v1-4",
+	"plugsize":14700127,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Porsche_968_Pack.v1-4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Porsche_968_Pack.v1-4.redplug.zip"
+	]
+},
+{
+	"plugname":"ProjectD.Myogi.Circuit",
+	"plugsize":21267,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ProjectD.Myogi.Circuit.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ProjectD.Myogi.Circuit.redplug.zip"
+	]
+},
+{
+	"plugname":"Quarter Mile",
+	"plugsize":3116,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Quarter Mile.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Quarter Mile.redplug.zip"
+	]
+},
+{
+	"plugname":"RLPD_Cruiser_2.0",
+	"plugsize":3247052,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/RLPD_Cruiser.redplug_2.0.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/RLPD_Cruiser.redplug_2.0.zip"
+	]
+},
+{
+	"plugname":"RLPD_Enforcer_BETA8",
+	"plugsize":5838166,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/RLPD_Enforcer.redplug_BETA8.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/RLPD_Enforcer.redplug_BETA8.zip"
+	]
+},
+{
+	"plugname":"Radical_Rally",
+	"plugsize":9026264,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Radical_Rally.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Radical_Rally.zip"
+	]
+},
+{
+	"plugname":"RallycrossGolfPackv1.4",
+	"plugsize":7131700,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/RallycrossGolfPackv1.4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/RallycrossGolfPackv1.4.redplug.zip"
+	]
+},
+{
+	"plugname":"Redline_Football_Pitch_2",
+	"plugsize":3590980,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Redline_Football_Pitch_2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Redline_Football_Pitch_2.zip"
+	]
+},
+{
+	"plugname":"Ren_787B_v1.1",
+	"plugsize":5660295,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ren_787B.redplug_v1.1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ren_787B.redplug_v1.1.zip"
+	]
+},
+{
+	"plugname":"Ren_Downtown_0.1",
+	"plugsize":59387,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ren_Downtown_0.1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ren_Downtown_0.1.zip"
+	]
+},
+{
+	"plugname":"Ren_Environments",
+	"plugsize":11889392,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ren_Environments.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ren_Environments.redplug.zip"
+	]
+},
+{
+	"plugname":"Ren_RMS_BSF_BETA2",
+	"plugsize":2059570,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ren_RMS_BSF.redplug_BETA2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ren_RMS_BSF.redplug_BETA2.zip"
+	]
+},
+{
+	"plugname":"Ren_Wyoming_BETA2",
+	"plugsize":677415,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ren_Wyoming.redplug_BETA2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ren_Wyoming.redplug_BETA2.zip"
+	]
+},
+{
+	"plugname":"Rocky_Pass",
+	"plugsize":19996346,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Rocky_Pass.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Rocky_Pass.zip"
+	]
+},
+{
+	"plugname":"Run_and_Jump",
+	"plugsize":849819,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Run_and_Jump.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Run_and_Jump.redplug.zip"
+	]
+},
+{
+	"plugname":"Runway Dragstrip v0.2",
+	"plugsize":2601036,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Runway Dragstrip v0.2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Runway Dragstrip v0.2.zip"
+	]
+},
+{
+	"plugname":"SPTFRES-garden",
+	"plugsize":13651660,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/SPTFRES-garden.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/SPTFRES-garden.redplug.zip"
+	]
+},
+{
+	"plugname":"Safari_Rally",
+	"plugsize":12029408,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Safari_Rally.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Safari_Rally.redplug.zip"
+	]
+},
+{
+	"plugname":"SanFranciscoGrandPrix",
+	"plugsize":108287298,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/SanFranciscoGrandPrix.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/SanFranciscoGrandPrix.zip"
+	]
+},
+{
+	"plugname":"Sandy_Dragway1.0.0",
+	"plugsize":450948,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Sandy_Dragway1.0.0.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Sandy_Dragway1.0.0.zip"
+	]
+},
+{
+	"plugname":"Seat_Leon_Cupra_RLTCC",
+	"plugsize":4837382,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Seat_Leon_Cupra_RLTCC.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Seat_Leon_Cupra_RLTCC.redplug.zip"
+	]
+},
+{
+	"plugname":"ShiaValleyTrack",
+	"plugsize":3091809,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ShiaValleyTrack.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ShiaValleyTrack.zip"
+	]
+},
+{
+	"plugname":"Silverstone",
+	"plugsize":28472646,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Silverstone.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Silverstone.redplug.zip"
+	]
+},
+{
+	"plugname":"Silverstone_Arena",
+	"plugsize":28933997,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Silverstone_Arena.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Silverstone_Arena.zip"
+	]
+},
+{
+	"plugname":"Ski_Slope1.2",
+	"plugsize":688526,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Ski_Slope1.2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Ski_Slope1.2.zip"
+	]
+},
+{
+	"plugname":"Skidpad-v0.2",
+	"plugsize":3019068,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Skidpad-v0.2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Skidpad-v0.2.zip"
+	]
+},
+{
+	"plugname":"SmallOval",
+	"plugsize":4631716,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/SmallOval.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/SmallOval.zip"
+	]
+},
+{
+	"plugname":"Smileys-pack",
+	"plugsize":135450,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Smileys-pack.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Smileys-pack.zip"
+	]
+},
+{
+	"plugname":"SmugglersRun",
+	"plugsize":601960,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/SmugglersRun.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/SmugglersRun.redplug.zip"
+	]
+},
+{
+	"plugname":"Springfield Tunnel",
+	"plugsize":333074,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Springfield Tunnel.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Springfield Tunnel.redplug.zip"
+	]
+},
+{
+	"plugname":"SpringfieldFallingTrees",
+	"plugsize":337121,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/SpringfieldFallingTrees.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/SpringfieldFallingTrees.redplug.zip"
+	]
+},
+{
+	"plugname":"SpringfieldLongTrack",
+	"plugsize":2275801,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/SpringfieldLongTrack.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/SpringfieldLongTrack.redplug.zip"
+	]
+},
+{
+	"plugname":"Subaru-Impreza-WRC",
+	"plugsize":883015,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Subaru-Impreza-WRC.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Subaru-Impreza-WRC.redplug.zip"
+	]
+},
+{
+	"plugname":"SundanceLoop",
+	"plugsize":25498197,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/SundanceLoop.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/SundanceLoop.zip"
+	]
+},
+{
+	"plugname":"Super'cons (v1.1)",
+	"plugsize":1316418,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Super'cons (v1.1).zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Super'cons (v1.1).zip"
+	]
+},
+{
+	"plugname":"TACuda",
+	"plugsize":26343431,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/TACuda.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/TACuda.redplug.zip"
+	]
+},
+{
+	"plugname":"TheTube",
+	"plugsize":258347,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/TheTube.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/TheTube.zip"
+	]
+},
+{
+	"plugname":"TheVelum",
+	"plugsize":2984653,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/TheVelum.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/TheVelum.zip"
+	]
+},
+{
+	"plugname":"Toyota-Celica-WRC",
+	"plugsize":2285766,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Toyota-Celica-WRC.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Toyota-Celica-WRC.redplug.zip"
+	]
+},
+{
+	"plugname":"Toyota_Supra_Turbo",
+	"plugsize":7857542,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Toyota_Supra_Turbo.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Toyota_Supra_Turbo.redplug.zip"
+	]
+},
+{
+	"plugname":"Traffic",
+	"plugsize":14349,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Traffic.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Traffic.zip"
+	]
+},
+{
+	"plugname":"USTCC_Golf",
+	"plugsize":5161482,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/USTCC_Golf.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/USTCC_Golf.redplug.zip"
+	]
+},
+{
+	"plugname":"VIR",
+	"plugsize":11068782,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/VIR.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/VIR.zip"
+	]
+},
+{
+	"plugname":"VRC",
+	"plugsize":1091437,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/VRC.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/VRC.zip"
+	]
+},
+{
+	"plugname":"VW_Golf_Ltd.v1-0",
+	"plugsize":1959524,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/VW_Golf_Ltd.v1-0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/VW_Golf_Ltd.v1-0.redplug.zip"
+	]
+},
+{
+	"plugname":"VW_New_Beetle_RSi",
+	"plugsize":4098637,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/VW_New_Beetle_RSi.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/VW_New_Beetle_RSi.redplug.zip"
+	]
+},
+{
+	"plugname":"WRC_fixes",
+	"plugsize":1743322,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/WRC_fixes.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/WRC_fixes.redplug.zip"
+	]
+},
+{
+	"plugname":"Wartburg1.1",
+	"plugsize":1897606,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Wartburg1.1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Wartburg1.1.redplug.zip"
+	]
+},
+{
+	"plugname":"WatkinsGlen",
+	"plugsize":17123962,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/WatkinsGlen.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/WatkinsGlen.redplug.zip"
+	]
+},
+{
+	"plugname":"Whitehill+v1.1",
+	"plugsize":6832428,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Whitehill+v1.1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Whitehill+v1.1.zip"
+	]
+},
+{
+	"plugname":"Zaarocks_valley_1.5",
+	"plugsize":363469,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Zaarocks_valley_1.5.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Zaarocks_valley_1.5.redplug.zip"
+	]
+},
+{
+	"plugname":"Zolder",
+	"plugsize":2085188,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/Zolder.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Zolder.redplug.zip"
+	]
+},
+{
+	"plugname":"abarth-simca-10",
+	"plugsize":2577061,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/abarth-simca-10.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/abarth-simca-10.redplug.zip"
+	]
+},
+{
+	"plugname":"Toyota AE86",
+	"plugsize":19843357,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ae86.redplug.zip",
+		"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ae86.redplug.zip"
+	]
+},
+{
+	"plugname":"Akina Downhill",
+	"plugsize":1170654,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/akina.zip",
+		"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/akina.zip"
+	]
+},
+{
+	"plugname":"alfa_1900_beta_1.0",
+	"plugsize":2765021,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/alfa_1900_beta_1.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/alfa_1900_beta_1.0.redplug.zip"
+	]
+},
+{
+	"plugname":"alpenpass",
+	"plugsize":2389448,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/alpenpass.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/alpenpass.zip"
+	]
+},
+{
+	"plugname":"alpha+Duality+Raceway",
+	"plugsize":645631,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/alpha+Duality+Raceway.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/alpha+Duality+Raceway.zip"
+	]
+},
+{
+	"plugname":"ascona-400-1.0",
+	"plugsize":4275663,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ascona-400-1.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ascona-400-1.0.redplug.zip"
+	]
+},
+{
+	"plugname":"badges $kater1.4",
+	"plugsize":265845,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/badges $kater1.4.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/badges $kater1.4.zip"
+	]
+},
+{
+	"plugname":"bajaBeetleBug",
+	"plugsize":7025610,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bajaBeetleBug.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bajaBeetleBug.redplug.zip"
+	]
+},
+{
+	"plugname":"bru-Canyon-Snow",
+	"plugsize":47310,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bru-Canyon-Snow.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bru-Canyon-Snow.zip"
+	]
+},
+{
+	"plugname":"bru-Forest-Circuit",
+	"plugsize":216926,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bru-Forest-Circuit.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bru-Forest-Circuit.zip"
+	]
+},
+{
+	"plugname":"bru-Forest-Dirt",
+	"plugsize":24801,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bru-Forest-Dirt.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bru-Forest-Dirt.zip"
+	]
+},
+{
+	"plugname":"bru-Short-Road-Rally",
+	"plugsize":51543,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bru-Short-Road-Rally.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bru-Short-Road-Rally.zip"
+	]
+},
+{
+	"plugname":"bru-Snow-to-Dirt",
+	"plugsize":39095,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bru-Snow-to-Dirt.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bru-Snow-to-Dirt.zip"
+	]
+},
+{
+	"plugname":"bru-country-dirt",
+	"plugsize":1114107,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bru-country-dirt.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bru-country-dirt.zip"
+	]
+},
+{
+	"plugname":"bru-weather-1.1",
+	"plugsize":46487,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/bru-weather-1.1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/bru-weather-1.1.zip"
+	]
+},
+{
+	"plugname":"buz_aroundtheworld-a2",
+	"plugsize":7287720,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/buz_aroundtheworld-a2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/buz_aroundtheworld-a2.zip"
+	]
+},
+{
+	"plugname":"cactusroad",
+	"plugsize":5010131,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/cactusroad.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/cactusroad.redplug.zip"
+	]
+},
+{
+	"plugname":"catalunya",
+	"plugsize":4139703,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/catalunya.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/catalunya.redplug.zip"
+	]
+},
+{
+	"plugname":"chaparral-2J-1.1",
+	"plugsize":2744007,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/chaparral-2J-1.1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/chaparral-2J-1.1.redplug.zip"
+	]
+},
+{
+	"plugname":"citroen-2cv",
+	"plugsize":2808034,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/citroen-2cv.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/citroen-2cv.redplug.zip"
+	]
+},
+{
+	"plugname":"citroen-sm-proto",
+	"plugsize":5813482,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/citroen-sm-proto.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/citroen-sm-proto.redplug.zip"
+	]
+},
+{
+	"plugname":"dakar",
+	"plugsize":15226320,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/dakar.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/dakar.redplug.zip"
+	]
+},
+{
+	"plugname":"desert-buggy-1",
+	"plugsize":2827767,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/desert-buggy-1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/desert-buggy-1.redplug.zip"
+	]
+},
+{
+	"plugname":"donut",
+	"plugsize":199322,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/donut.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/donut.redplug.zip"
+	]
+},
+{
+	"plugname":"el-Camino-4x4-1.0",
+	"plugsize":2262147,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/el-Camino-4x4-1.0.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/el-Camino-4x4-1.0.redplug.zip"
+	]
+},
+{
+	"plugname":"el-Camino-Beta",
+	"plugsize":3561583,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/el-Camino-Beta.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/el-Camino-Beta.redplug.zip"
+	]
+},
+{
+	"plugname":"fargo_blv",
+	"plugsize":20245654,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/fargo_blv.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/fargo_blv.redplug.zip"
+	]
+},
+{
+	"plugname":"flag_icons",
+	"plugsize":183109,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/flag_icons.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/flag_icons.zip"
+	]
+},
+{
+	"plugname":"formula-1-v2",
+	"plugsize":12488526,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/formula-1-v2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/formula-1-v2.redplug.zip"
+	]
+},
+{
+	"plugname":"formula-1.o-xs",
+	"plugsize":3861253,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/formula-1.o-xs.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/formula-1.o-xs.redplug.zip"
+	]
+},
+{
+	"plugname":"ga-porsche-962cv1.0.1",
+	"plugsize":5285397,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ga-porsche-962cv1.0.1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ga-porsche-962cv1.0.1.redplug.zip"
+	]
+},
+{
+	"plugname":"gcw-brandshatch-v1.1.2",
+	"plugsize":14513288,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/gcw-brandshatch-v1.1.2.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/gcw-brandshatch-v1.1.2.redplug.zip"
+	]
+},
+{
+	"plugname":"gcw-pembrey",
+	"plugsize":14628674,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/gcw-pembrey.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/gcw-pembrey.zip"
+	]
+},
+{
+	"plugname":"hammy road",
+	"plugsize":3461750,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/hammy road.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/hammy road.redplug.zip"
+	]
+},
+{
+	"plugname":"hawkedon",
+	"plugsize":3335975,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/hawkedon.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/hawkedon.zip"
+	]
+},
+{
+	"plugname":"highspeed-spt-edition",
+	"plugsize":4239508,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/highspeed-spt-edition.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/highspeed-spt-edition.redplug.zip"
+	]
+},
+{
+	"plugname":"honda_civic",
+	"plugsize":11876897,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/honda_civic.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/honda_civic.redplug.zip"
+	]
+},
+{
+	"plugname":"interlagos",
+	"plugsize":1737345,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/interlagos.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/interlagos.zip"
+	]
+},
+{
+	"plugname":"jim-hall",
+	"plugsize":3705788,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/jim-hall.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/jim-hall.redplug.zip"
+	]
+},
+{
+	"plugname":"lola-1.6",
+	"plugsize":4902965,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/lola-1.6.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/lola-1.6.redplug.zip"
+	]
+},
+{
+	"plugname":"lotusMK9",
+	"plugsize":1656927,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/lotusMK9.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/lotusMK9.redplug.zip"
+	]
+},
+{
+	"plugname":"mcl-m8-1",
+	"plugsize":3449579,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/mcl-m8-1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/mcl-m8-1.redplug.zip"
+	]
+},
+{
+	"plugname":"mg-metro-6r4-v1.1",
+	"plugsize":4207143,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/mg-metro-6r4-v1.1.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/mg-metro-6r4-v1.1.redplug.zip"
+	]
+},
+{
+	"plugname":"mountainside_",
+	"plugsize":6521,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/mountainside_.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/mountainside_.zip"
+	]
+},
+{
+	"plugname":"mugello",
+	"plugsize":45842428,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/mugello.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/mugello.redplug.zip"
+	]
+},
+{
+	"plugname":"mustang_s197_pack",
+	"plugsize":10835263,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/mustang_s197_pack.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/mustang_s197_pack.redplug.zip"
+	]
+},
+{
+	"plugname":"nissan350z_gt4",
+	"plugsize":8240264,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/nissan350z_gt4.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/nissan350z_gt4.redplug.zip"
+	]
+},
+{
+	"plugname":"nutz_badges",
+	"plugsize":229432,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/nutz_badges.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/nutz_badges.redplug.zip"
+	]
+},
+{
+	"plugname":"peugeot908",
+	"plugsize":8209760,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/peugeot908.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/peugeot908.redplug.zip"
+	]
+},
+{
+	"plugname":"porsche-rsr",
+	"plugsize":2215717,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/porsche-rsr.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/porsche-rsr.redplug.zip"
+	]
+},
+{
+	"plugname":"r5-turbo",
+	"plugsize":3959335,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/r5-turbo.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/r5-turbo.redplug.zip"
+	]
+},
+{
+	"plugname":"rod_rx7",
+	"plugsize":8980548,
+	"plugtype":"cars",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/rod_rx7.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/rod_rx7.redplug.zip"
+	]
+},
+{
+	"plugname":"sketchtrack",
+	"plugsize":4715686,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/sketchtrack.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/sketchtrack.zip"
+	]
+},
+{
+	"plugname":"slowDan-BlackForest-1-0",
+	"plugsize":7517303,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/slowDan-BlackForest-1-0.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/slowDan-BlackForest-1-0.zip"
+	]
+},
+{
+	"plugname":"slowDan-Dantona-1-1-1",
+	"plugsize":14153116,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/slowDan-Dantona-1-1-1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/slowDan-Dantona-1-1-1.zip"
+	]
+},
+{
+	"plugname":"slowDan-Drift+Loop+1.0",
+	"plugsize":744521,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/slowDan-Drift+Loop+1.0.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/slowDan-Drift+Loop+1.0.zip"
+	]
+},
+{
+	"plugname":"slowDan-Gorge-1.0",
+	"plugsize":1800790,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/slowDan-Gorge-1.0.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/slowDan-Gorge-1.0.zip"
+	]
+},
+{
+	"plugname":"slowDan-Thruxton-0.95",
+	"plugsize":6942410,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/slowDan-Thruxton-0.95.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/slowDan-Thruxton-0.95.zip"
+	]
+},
+{
+	"plugname":"st_pastoral",
+	"plugsize":6607411,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/st_pastoral.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/st_pastoral.redplug.zip"
+	]
+},
+{
+	"plugname":"subrahpack2",
+	"plugsize":1730984,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/subrahpack2.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/subrahpack2.zip"
+	]
+},
+{
+	"plugname":"suzukabeta1",
+	"plugsize":6304447,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/suzukabeta1.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/suzukabeta1.zip"
+	]
+},
+{
+	"plugname":"ultraoval",
+	"plugsize":1258221,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/ultraoval.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ultraoval.redplug.zip"
+	]
+},
+{
+	"plugname":"valley_track_fixed",
+	"plugsize":415203,
+	"plugtype":"tracks",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/valley_track_fixed.redplug.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/valley_track_fixed.redplug.zip"
+	]
+},
+{
+	"plugname":"xs-badges",
+	"plugsize":156373,
+	"plugtype":"misc",
+	"urls":[
+		"http://redline.martindessauer.de/plugins/xs-badges.zip",
+			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/xs-badges.zip"
+	]
+},
+0]}
