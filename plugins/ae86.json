@@ -1,9 +1,9 @@
 {
-	"plugname":"ae86",
+	"plugname":"Toyota AE86",
 	"plugsize":19843357,
 	"plugtype":"cars",
 	"urls":[
 		"http://redline.martindessauer.de/plugins/ae86.redplug.zip",
-			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ae86.redplug.zip"
+		"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/ae86.redplug.zip"
 	]
 }
