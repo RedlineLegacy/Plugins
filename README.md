@@ -17,25 +17,19 @@ How to edit/add?
 Files
 -----
 
- - `generateIndex.py`: Generates the file `index.json`, including all plugins.
+ - `update.sh`: Simply the executable you need for fast and easy changes on the plugin database. (See "How to edit/add?" for more)
  - `plugins/`: Directory, containing JSON files, one per `.redplug`.
      - `ABC.json`: JSON for `ABC.redplug`.
      - `DEF.json`: JSON for `DEF.redplug`.
      - `[...]`
- - `index.json`: Containing every plugin. See below for structure.
- 
-Index Generator
-----------------
-**(`generateIndex.py`, `index.json`)**
-
-This file generates the file `index.json` which simply contains every `.json` from `plugins/`.
-
+ - `index.json`: Contains every plugin. If you want to write eg. an updater, you should link to this file.
+ - `README.md`: This.
 
 File structure
 -----------
 **General**
 
-There are some basic information every plugin must provide.
+There are some basic information every plugin should provide.
 
 Name | Possible Values | Explanation
 -----|-----------------|------------
@@ -70,15 +64,15 @@ Name | Possible Values | Explanation
 
 ```
 {
-    "plugname":"Alpenpass",
-    "plugsize":2389448,
-    "plugtype":"tracks",
-    
-    "loop":"YES",
-    
-    "urls":[
-        "http://redline.martindessauer.de/plugins/alpenpass.zip",
-	"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/alpenpass.zip"
+	"plugname":"Alpenpass",
+	"plugsize":2389448,
+	"plugtype":"tracks",
+	
+	"loop":"YES",
+	
+	"urls":[
+		"http://redline.martindessauer.de/plugins/alpenpass.zip",
+		"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/alpenpass.zip"
 	]
 }
 ```
