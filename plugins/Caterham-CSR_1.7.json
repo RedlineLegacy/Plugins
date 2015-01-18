@@ -1,9 +1,15 @@
 {
-	"plugname":"Caterham-CSR_1.7",
-	"plugsize":6489923,
-	"plugtype":"cars",
-	"urls":[
-		"http://redline.martindessauer.de/plugins/Caterham-CSR_1.7.redplug.zip",
-			"http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Caterham-CSR_1.7.redplug.zip"
-	]
+    "plugname":"Caterham 7 CSR 260",
+    "plugsize":6489923,
+    "plugtype":"cars",
+
+    "kw":194,
+    "drivetrain":"RWD",
+    "weight":695,
+    "gearboxes":6,
+
+    "urls":[
+        "http://redline.martindessauer.de/plugins/Caterham-CSR_1.7.redplug.zip",
+        "http://dl.dropboxusercontent.com/u/96377041/LEGACYOFLIES/plugins/Caterham-CSR_1.7.redplug.zip"
+    ]
 }
