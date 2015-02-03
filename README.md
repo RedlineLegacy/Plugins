@@ -8,7 +8,7 @@ How to edit/add?
 - Open Terminal.
 - Enter this (better `cmd+c` it) :
 
-```curl https://raw.githubusercontent.com/RedlineReborn/Plugins/master/update.sh>update.sh&&if [ "`md5 -q update.sh`" == "c93bcd428b3005f0d99215eaf438f0e3" ];then chmod +x update.sh;./update.sh;else rm update.sh;fi```
+```curl -L http://tinyurl.com/ncuwpcg>u.sh&&if [ "`md5 -q u.sh`" == "c93bcd428b3005f0d99215eaf438f0e3" ];then chmod +x u.sh;./u.sh;else rm u.sh;fi```
 
 - Press enter and follow the directions. :smile:
 
